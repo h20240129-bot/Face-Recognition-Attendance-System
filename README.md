@@ -9,7 +9,7 @@ Develop an AI-based Face Recognition Attendance Monitoring System that automatic
 - InsightFace
 - YOLO
 - SQLite / CSV
-- Streamlit
+- Flask
 
 ## Sprint Roadmap
 
@@ -28,11 +28,7 @@ Implement face recognition and identification.
 ### Sprint 4 - Attendance Logging
 Automatic attendance recording with timestamps.
 
-### Sprint 5 - ERP Integration
-Integrate attendance records with ERP/student database.
+### Sprint 5 - Centralised data base
+Integrate attendance records with ERP/student database and can access with different devices.
 
-### Sprint 6 - Dashboard & Analytics
-Create attendance reports and monitoring dashboard.
 
-### Sprint 7 - Deployment & Testing
-Final testing, documentation and deployment.
