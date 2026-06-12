@@ -14,8 +14,6 @@ Working GitHub repository.
 # Setup GitHub Account
 
 
-## 🎯Here is what you will learn 
-You will learn the following:
 - How to sign up at GitHub and create an account
 - How to edit your profile and upload a picture
 - Bonus: How to build your own Octocat
