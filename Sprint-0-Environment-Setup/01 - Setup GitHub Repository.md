@@ -8,6 +8,8 @@ Create GitHub repository for project development.
 2. Create repository.
 3. Clone repository locally.
 4. Connect VS Code with GitHub.
+<img width="1061" height="381" alt="Screenshot 2026-06-12 222919" src="https://github.com/user-attachments/assets/b0719632-d312-4541-8ca4-0ef4b38029ee" />
+
 
 ## Deliverable
 Working GitHub repository.
