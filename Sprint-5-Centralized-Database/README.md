@@ -3,7 +3,8 @@
 Status: In Progress 
 
 ## Goal
-Store attendance records in a centralized cloud database so that attendance can be viewed from any device.
+Store attendance records in a centralized cloud database so that attendance can be viewed from any device.<img width="1276" height="488" alt="Screenshot 2026-06-13 090305" src="https://github.com/user-attachments/assets/cbc5ec3e-ed1b-451d-aa66-09a6f0c14fdb" />
+
 
 ## Current Problem
 Attendance is currently stored locally and can only be accessed from the local system.
