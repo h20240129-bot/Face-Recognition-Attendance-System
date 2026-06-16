@@ -86,6 +86,10 @@ Users can open this URL from any internet-connected device to access the attenda
 
 ---
 
+
+<img width="1279" height="664" alt="image" src="https://github.com/user-attachments/assets/70158d18-861a-441f-aa96-1b5f98d48784" />
+
+
 ## Features
 
 ### Remote Dashboard Access
