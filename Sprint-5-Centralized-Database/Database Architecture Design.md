@@ -6,7 +6,7 @@ Design a centralized database architecture for storing attendance records.
 
 ## Step 1: Analyze Existing System
 
-Current system stores:
+Current system store
 
 * Student Information
 * Face Embeddings
