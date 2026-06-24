@@ -4,9 +4,9 @@
 
 Connect the attendance monitoring system with a centralized database.
 
-## Technology Used
+Technology Used
 
-### Database
+ Database
 
 SQLite (Current Prototype)
 
