@@ -16,8 +16,8 @@ erp.db
 
 ### Future Migration
 
-* MySQL
-* PostgreSQL
+ MySQL
+ PostgreSQL
 
 ## Step 1: Create Database
 
