@@ -9,7 +9,7 @@ Store attendance records in a centralized cloud database so that attendance can 
 ## Current Problem
 Attendance is currently stored locally and can only be accessed from the local system.
 
-## Tasks
+ Tasks
 - Setup cloud database (Supabase/PostgreSQL)
 - Create attendance table
 - Connect Python attendance system to database
