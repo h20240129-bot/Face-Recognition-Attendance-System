@@ -14,7 +14,7 @@ Current system store
 
 ![Current Architecture](images/current-architecture.png)
 
-## Step 2: Identify Database Requirements
+Step 2: Identify Database Requirements
 
 The centralized database must support:
 
